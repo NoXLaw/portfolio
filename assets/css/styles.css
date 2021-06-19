@@ -550,8 +550,8 @@ img{
 }
 
 .qualification__calendar{
-    color: var(--text-color-light);
     font-size: var(--smaller-font-size);
+    color: var(--text-color-light);
 }
 
 .qualification__rounder{
@@ -570,11 +570,11 @@ img{
     transform: translate(6px, -7px);
 }
 
-.qualification [data-content] {
+.qualification [data-content]{
     display: none;
 }
 
-.qualification__active[data-content] {
+.qualification__active[data-content]{
     display: block;
 }
 
