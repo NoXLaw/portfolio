@@ -252,7 +252,7 @@ img{
 
 .home__social{
     display: grid;
-    margin-top: var(--mb-2-5);
+    /* margin-top: var(--mb-2-5); */
     grid-template-columns: max-content;
     row-gap: 1rem;
 }
